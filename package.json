@@ -1,6 +1,6 @@
 {
   "name": "tolunar",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Transfer date between solar and lunar calendar.",
   "main": "index.js",
   "scripts": {
