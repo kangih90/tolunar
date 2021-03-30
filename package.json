@@ -1,0 +1,23 @@
+{
+  "name": "tolunar",
+  "version": "1.0.0",
+  "description": "Transfer date between solar and lunar calendar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangih90/tolunar.git"
+  },
+  "keywords": ["lunar", "solar", "calendar", "transfer", "date"],
+  "author": "kangih99@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kangih90/tolunar/issues"
+  },
+  "homepage": "https://github.com/kangih90/tolunar#readme",
+  "dependencies": {
+    "commander": "^7.2.0"
+  }
+}
