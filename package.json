@@ -1,6 +1,6 @@
 {
   "name": "tolunar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Transfer date between solar and lunar calendar.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/kangih90/tolunar.git"
   },
-  "keywords": ["lunar", "solar", "calendar", "transfer", "date"],
+  "keywords": [
+    "lunar",
+    "solar",
+    "calendar",
+    "transfer",
+    "date"
+  ],
   "author": "kangih99@gmail.com",
   "license": "MIT",
   "bugs": {
