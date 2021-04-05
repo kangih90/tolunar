@@ -1,3 +1,7 @@
-module.exports = function(){
-    console.log("Hello, npm!");
+export function toLunar(date) {
+    return "toLunar";
+}
+
+export function toSolar(date) {
+    return "toSolar";
 }

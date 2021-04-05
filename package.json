@@ -1,8 +1,9 @@
 {
   "name": "tolunar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Transfer date between solar and lunar calendar.",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +18,7 @@
     "transfer",
     "date"
   ],
-  "author": "kangih99@gmail.com",
+  "author": "kangih90@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kangih90/tolunar/issues"
