@@ -1,11 +1,6 @@
-var calendar = {};
+const { toLunar, toSolar } = require("tolunar");
 
-calendar.toLunar = function(date) {
-    return "toLunar";
-}
+// var calendar = require('tolunar');
 
-calendar.toSolar = function(date) {
-    return "toSolar";
-}
-
-module.exports = calendar;
+console.log(toLunar("lunar"));
+console.log(toSolar("lunar"));
