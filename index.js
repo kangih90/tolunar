@@ -1,7 +1,11 @@
-export function toLunar(date) {
+var calendar = {};
+
+calendar.toLunar = function(date) {
     return "toLunar";
 }
 
-export function toSolar(date) {
+calendar.toSolar = function(date) {
     return "toSolar";
 }
+
+module.exports = calendar;
