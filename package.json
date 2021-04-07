@@ -15,15 +15,15 @@
     "solar",
     "calendar",
     "transfer",
-    "date"
+    "date",
+    "음력","양력","날짜변환","변환"
   ],
-  "author": "kangih90@gmail.com",
+  "author": "Goo Kang <kangih90@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kangih90/tolunar/issues"
   },
   "homepage": "https://github.com/kangih90/tolunar#readme",
   "dependencies": {
-    "commander": "^7.2.0"
   }
 }
